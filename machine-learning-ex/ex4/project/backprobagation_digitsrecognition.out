@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Dataset}{}% 2
+\BOOKMARK [1][-]{section.3}{Artificial neural network model}{}% 3
+\BOOKMARK [1][-]{section.4}{Feedforward propagation and cost}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Input layer}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Bias}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Weights or }{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Neuron value Zl and activation value al}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.5}{Cost}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Backpropagation}{}% 10
+\BOOKMARK [1][-]{section.6}{Contribution}{}% 11
